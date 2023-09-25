@@ -1,0 +1,7 @@
+Charizard Costume,Pokemon Inc,$15,0
+Naruto Costume,Anime Corp,$14.5,500
+Batman Costume,DC Comics,$18.8,500
+Spiderman Costume,Marvel INC,$11,500
+Santa Costume,North Face,$18.01,495
+Hawkeye Costume,Marvel INC,$21,500
+Superman Costume,DC Comics,$19,500

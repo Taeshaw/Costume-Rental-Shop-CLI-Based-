@@ -1,0 +1,9 @@
+<<<<<<----------Rent Bill--------------->>>>>>
+Customer Name: Tesha
+Customer Phone: 9814383473
+Date Of Rent: 2022-09-11 Sunday
+<<<<<-------Product Details------------->>>>>>
+Costume Name: ['Charizard Costume', 'Naruto Costume']
+Brand Name: ['Pokemon Inc', 'Anime Corp']
+Total Amount: $147.5
+-----------------------------------------------

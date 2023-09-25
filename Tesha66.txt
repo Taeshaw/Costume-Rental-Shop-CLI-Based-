@@ -1,0 +1,9 @@
+<<<<<<--------Return Bill--------------->>>>>>
+Customer Name: Tesha
+Customer Mobile Number: 9894547432
+Date Of Return: 2022-09-11 Sunday
+<<<<<-------Product Details------------->>>>>>
+Costume Name: ['Charizard Costume', 'Naruto Costume']
+Brand Name: ['Pokemon Inc', 'Anime Corp']
+Total Amount: $147.5
+-----------------------------------------------
